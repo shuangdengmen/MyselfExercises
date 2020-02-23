@@ -1,0 +1,2 @@
+include ':openfile', ':openfiledialog'
+rootProject.name='MyselfExercises'
